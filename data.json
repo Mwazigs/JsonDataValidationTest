@@ -1,0 +1,10 @@
+ {
+    "name": "Kombo",
+    "age": "sddd",
+    "address": {
+      "street": "Kiambu",
+      "city": "Nairobi",
+      "zipCode": "ggg"
+    }
+    
+  }
